@@ -5,8 +5,8 @@
       "serve": "vue-cli-service serve --port 8000"
     },
     "dependencies": {
-      "vue": "^3.2.33",
-      "vue-router": "4.0.15"
+      "vue": "^latest",
+      "vue-router": "latest"
     },
     "devDependencies": {
       "@vue/cli-plugin-router": "^4.5.15",
