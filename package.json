@@ -6,7 +6,7 @@
         "build": "vue-cli-service build"
     },
     "dependencies": {
-        "terser": "^5.31.0",
+        "terser": "lataest",
         "vue": "latest",
         "vue-router": "latest"
     },
